@@ -1,0 +1,13 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 17:46:37 On 29-08-2018
+
+Output: 28 Pins Pick and Place
+Type  : Pick Place
+From  : Variant [5V/3V3] of PCB Document [28Pins_Project_V1I1_PCB.PcbDoc]
+
+
+Files Generated   : 0
+Documents Printed : 0
+
+Finished Output Generation At 17:46:40 On 29-08-2018
